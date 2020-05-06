@@ -1,2 +1,2 @@
 # GravitysWebConference
- Programa para a conferência da Gravity
+ Aplicação para gerir a conferência da Gravity
